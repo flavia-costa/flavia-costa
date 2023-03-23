@@ -17,6 +17,6 @@
 <div>
           <a href="linkedin.com/in/flavia-costa-02b29b216">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
-          </a>
+          
           
 </div>
