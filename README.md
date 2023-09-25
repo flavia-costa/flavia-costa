@@ -1,4 +1,4 @@
-<h1>:rainbow: Flávia Costa</h1> 
+<h1>Flávia Costa</h1> 
 
 <p>:earth_americas: Hello!</p>
 <p>I live in Salvador, Bahia, Brazil.</p>
