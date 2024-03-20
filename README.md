@@ -1,10 +1,10 @@
 <h1>Flávia Costa</h1> 
 
 <p>:earth_americas: Hello!</p>
-<p>I live in Salvador, Bahia, Brazil.</p>
-<p>I'm currently studying Back-End development at Cubos Academy, at EBAC I'm studying Full Satck Python Development, and I'm taking a technical course at SENAC in Systems Development.</p>
-<p>My professional career began in biology, but it was in programming that I found my true passion. Today I am pursuing my dream of working in this area.</p>
-<p>I look forward to collaborating on projects and am open to any constructive feedback on my repositories. </p>
+<p>I'm a Back End developer who has been diving deep into the world of programming since 2021, with a background in biological sciences.</p>
+<p>My educational journey is diverse: I've earned a Full Stack Programming certification from Infinity School, graduated from Cubos Academy in Back End Development, and am currently finalizing my studies in System Development at SENAC.</p>
+<p>I have expertise in Python, SQL, JavaScript, Java, HTML, and CSS.</p>
+<p>I thrive on exploring and investigating new technologies, I am highly communicative, and always eager to learn and embrace new challenges.</p>
 <p>Please feel free to contribute!🤝</p>
 
 <h2>:computer: Tools and Technologies:</h2>
